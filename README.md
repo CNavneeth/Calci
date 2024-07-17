@@ -44,10 +44,4 @@ This project includes two web applications: a Calculator and a Live World Clock.
 
 -[Chaithu2653](https://github.com/Chaithu2653)
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or support, please contact [yourname@yourdomain.com](mailto:yourname@yourdomain.com).
