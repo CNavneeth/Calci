@@ -41,6 +41,7 @@ This project includes two web applications: a Calculator and a Live World Clock.
 ## Authors
 
 -[CNavneeth](https://github.com/CNavneeth)
+
 -[Chaithu2653](https://github.com/Chaithu2653)
 
 ## License
